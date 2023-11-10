@@ -1,0 +1,35 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styless.css">
+    <title>Diagnóstico Práctico</title>
+</head>
+<body>
+
+    <header>
+        <h1 align="center" ">Diagnóstico Práctico</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#" onclick="cargarContenido('inicio.html')">Inicio</a></li>
+            <li><a href="#" onclick="cargarContenido('acerca-de.html')">Acerca de</a></li>
+            <li><a href="#" onclick="cargarContenido('contacto.html')">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <iframe id="iframeContenido" width="200%" height="10000px" frameborder="1"></iframe>
+    </main>
+
+    <script src="js/script.js"></script>
+    <script>
+        function cargarContenido(pagina) {
+            document.getElementById('iframeContenido').src = pagina;
+        }
+    </script>
+</body>
+</html>

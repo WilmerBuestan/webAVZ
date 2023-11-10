@@ -1,0 +1,52 @@
+/* styless.css */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9; /* Color  claro */
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; 
+}
+
+header {
+    background-color: #10C050; /* Rojo  */
+    color: #fff;
+    padding: 15px; /*  relleno para el encabezado */
+    text-align: center;
+}
+
+nav {
+    background-color: #555;
+    padding: 10px;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin: 0 15px;
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold; /*  enlaces sean más prominentes */
+}
+
+main {
+    margin: 50px;
+    flex-grow: 1; /* Expande el contenido para ocupar el espacio restante */
+}
+
+iframe {
+    width: 100%;
+    height: 800;
+    border: none; /* borra borde del iframe */
+}
