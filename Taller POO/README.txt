@@ -10,7 +10,7 @@ Clonar el Repositorio:
 
 bash
 Copy code
-git clone https://github.com/WilmerBuestan/webAVZ/Taller Poo/
+git clone https://github.com/WilmerBuestan/webAVZ/tree/main/Taller%20POO
 Navegar al Directorio del Proyecto:
 
 bash
