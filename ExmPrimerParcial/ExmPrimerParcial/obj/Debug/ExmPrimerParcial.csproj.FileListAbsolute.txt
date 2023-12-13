@@ -1,0 +1,7 @@
+C:\Users\thegr\OneDrive\Documentos\Visual Studio 2022\Templates\ProjectTemplates\C#\ExmPrimerParcial\ExmPrimerParcial\bin\Debug\ExmPrimerParcial.exe.config
+C:\Users\thegr\OneDrive\Documentos\Visual Studio 2022\Templates\ProjectTemplates\C#\ExmPrimerParcial\ExmPrimerParcial\bin\Debug\ExmPrimerParcial.exe
+C:\Users\thegr\OneDrive\Documentos\Visual Studio 2022\Templates\ProjectTemplates\C#\ExmPrimerParcial\ExmPrimerParcial\bin\Debug\ExmPrimerParcial.pdb
+C:\Users\thegr\OneDrive\Documentos\Visual Studio 2022\Templates\ProjectTemplates\C#\ExmPrimerParcial\ExmPrimerParcial\obj\Debug\ExmPrimerParcial.csproj.AssemblyReference.cache
+C:\Users\thegr\OneDrive\Documentos\Visual Studio 2022\Templates\ProjectTemplates\C#\ExmPrimerParcial\ExmPrimerParcial\obj\Debug\ExmPrimerParcial.csproj.CoreCompileInputs.cache
+C:\Users\thegr\OneDrive\Documentos\Visual Studio 2022\Templates\ProjectTemplates\C#\ExmPrimerParcial\ExmPrimerParcial\obj\Debug\ExmPrimerParcial.exe
+C:\Users\thegr\OneDrive\Documentos\Visual Studio 2022\Templates\ProjectTemplates\C#\ExmPrimerParcial\ExmPrimerParcial\obj\Debug\ExmPrimerParcial.pdb
