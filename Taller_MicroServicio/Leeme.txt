@@ -1,0 +1,76 @@
+
+# Actividad Práctica 6: Diseño de un Proyecto con Arquitectura de Microservicios
+
+Grupo:3
+Integrantes: Andy Pilozo, Michelle Paredes, Wilmer Buestan
+Fecha: 22/enero/2024
+
+
+Este proyecto implementa un sistema de microservicios utilizando Node.js y Express.
+
+## Requisitos
+
+- Node.js instalado en tu máquina. Puedes descargarlo desde [https://nodejs.org/](https://nodejs.org/).
+
+## Pasos para ejecutar el proyecto
+
+**Clona el repositorio:**
+   ```bash
+   git clone https://github.com/WilmerBuestan/webAVZ/blob/main/Taller_MicroServicio/microservicios-proyecto.rar
+   En este caso no se pudo subir todos el proyecto para clonarlo asi que es necesario descargar y descomprimir el .rar
+   cd microservicios-proyecto
+   
+1. Instala las dependencias:
+
+Para Microservicio 1:
+
+bash
+Copy code
+cd microservicio1
+npm install
+
+Para Microservicio 2:
+
+bash
+Copy code
+cd microservicio2
+npm install
+
+2. Configura los puertos (opcional):
+
+Si deseas cambiar los puertos, puedes hacerlo modificando los archivos index.js en los directorios microservicio1 y microservicio2.
+
+3. Ejecuta los microservicios:
+
+En una terminal para Microservicio 1:
+
+bash
+Copy code
+cd microservicio1
+node index.js
+En otra terminal para Microservicio 2:
+bash
+Copy code
+cd microservicio2
+node index.js
+
+4. Accede a los microservicios:
+
+Microservicio 1: http://localhost:4001/
+Microservicio 2: http://localhost:4002/
+
+5. Detén la ejecución:
+
+Puedes detener la ejecución de cada microservicio presionando Ctrl + C en la terminal correspondiente.
+
+Estructura del Proyecto
+
+microservicio1: Contiene el código del Microservicio 1.
+microservicio2: Contiene el código del Microservicio 2.
+
+Personalización
+
+Siéntete libre de personalizar el diseño y el código según tus necesidades. ¡Disfruta del proyecto!
+
+
+Asegúrate de reemplazar `tu-usuario` en la URL del repositorio con tu nombre de usuario de GitHub. Este archivo proporcionará a cualquier persona que descargue tu proyecto una guía paso a paso para ejecutarlo sin problemas.
